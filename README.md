@@ -12,6 +12,8 @@
   
 <p> Although my dissertation is a sociolinguistics project, I'm also experienced in acoustic analysis. I maintain an interest in descriptive phonetics and typology (having worked on Quechua ejectives and having contributed to the UD Prosodic Typologies Lab in the past).</p>
   
+ <p> Outside of linguistics, I enjoy riding and racing bikes, in addition to spending time with with our kitties (Colby & Jack).</p>
+  
   
  <a href="mailto:marcinko@udel.edu">marcinko@udel.edu</a>
   
