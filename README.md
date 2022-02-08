@@ -1,6 +1,12 @@
+<!DOCTYPE html>
 <html>
-<head>
   
+  <head>
+    <meta charset="utf-8">
+    <title> Mackenzie Hope Marcinko </title>
+  </head>
+  
+<body>
 
 <h1>Welcome!</h1>
 
@@ -17,6 +23,6 @@
  <a href="mailto:marcinko@udel.edu">marcinko@udel.edu</a>
   
 
+ </body>
 
-
-<html>
+</html>
