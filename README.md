@@ -12,8 +12,10 @@
   
  <p> Outside of linguistics, I enjoy riding and racing bikes, plus spending time with our kitties (Colby & Jack).</p>
  
-  
+ <a href="https://mackenziehmarcinko.github.io/folder/MM_CV_Feb22.pdf" target="_blank">CV.</a>
+
  <a href="mailto:marcinko@udel.edu">marcinko@udel.edu</a>
+  
 
 
 </body>
