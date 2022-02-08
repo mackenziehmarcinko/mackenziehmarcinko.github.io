@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   
   <head>
@@ -17,8 +17,6 @@
 <p> Although my dissertation is a sociolinguistics project, I have previous experience in acoustic analysis and phonetics fieldwork (having travelled to Peru in 2019). I've examined acoustic properties of Quechua ejectives, and I've also contributed to the UD Prosodic Typologies Lab. </p>
   
  <p> Outside of linguistics, I enjoy riding and racing bikes, plus spending time with our kitties (Colby & Jack).</p>
- 
- <a href="https://mackenziehmarcinko.github.io/folder/MM_CV_Feb22.pdf" target="_blank">CV</a>
 
  <a href="mailto:marcinko@udel.edu">marcinko@udel.edu</a>
   
