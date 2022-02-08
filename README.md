@@ -4,7 +4,7 @@
 
 <h1>Welcome!</h1>
 
-<p>I'm a 5th year graduate student in linguistics at <a href="https://www.lingcogsci.udel.edu/" target="_blank">The University of Delaware</a> </p> 
+<p>I'm a 5th year graduate student in linguistics at <a href="https://www.lingcogsci.udel.edu/" target="_blank">The University of Delaware.</a> </p> 
   
 <p>I'm currently working on my dissertation, which will determine if language attitudes present in a home community are maintained in diaspora, using Quechua as a case study. To this end, I'm conducting a matched guise study of Quechua and Spanish among bilingual participants in the US and in Peru. I maintain an interest in collaborate research methods, which I am intending to incorporate to this current project.</p>
   
